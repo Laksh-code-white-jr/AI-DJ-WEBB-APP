@@ -1,0 +1,43 @@
+body{
+background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size:xx-large;
+}
+.heading:hover{
+background-color:darkviolet;
+}
+
+img{
+    width: 150px;
+    margin-left: 15px;
+    border-radius: 200px;
+}
+
+#disk1{
+    float: left;
+    margin:15px;
+}
+
+#speed{
+    margin-left: 25px;
+}
+
+#disk2{
+    float: right;
+    margin:15px;
+}
+
+#volume{
+    margin-right: 25px;
+}
+
+canvas{
+    background-color: black;
+    border: dashed darkblue thick;
+    margin-top: 75px;
+    
+}
